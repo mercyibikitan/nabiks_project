@@ -16,7 +16,6 @@ A simple and elegant fashion website built with **HTML** and **CSS** to showcase
 
 ## How to View
 Open the project in your browser:
-[Live Demo](https://your-username.github.io/nabiks_project/)
-
+[Live Demo](https://mercyibikitan.github.io/nabiks_project/)
 ## Author
 Mercy Ibikitan – Inspired by Nabiks World
